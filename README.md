@@ -1,1 +1,1 @@
-# econ148-replication-project
+# Econ 148 Replication Project
